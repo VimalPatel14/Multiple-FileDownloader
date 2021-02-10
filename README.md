@@ -1,6 +1,6 @@
 # Multiple FileDownloader
 
-# Preview Image
+# Preview Images
 
 ![SC1](https://github.com/VimalPatel14/Multiple-FileDownloader/blob/master/sc1.jpg)
 
